@@ -1,9 +1,0 @@
-threshold_buy = 1.0
-threshold_sell = -1.0
-decay = 0.10
-smoothing = 4
-stoploss_enabled = false
-stoploss_threshold = 0.85
-hodl_threshold = 0.85
-price_buffer_len = 100
-min_predictions = 3000
