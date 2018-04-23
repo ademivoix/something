@@ -1,0 +1,10 @@
+[EMA]
+weight = 15
+
+[thresholds]
+percentUpper = 1.5
+percentLower = 1.5
+
+[profitloss]
+profitMulti = 1.33
+takeLoss = -10
